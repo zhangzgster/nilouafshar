@@ -2,4 +2,4 @@
 
 Modern portfolio and art-class website for Nilou Afshar.
 
-Published with GitHub Pages at: https://zhangzgster.github.io/personal-website/
+Published with GitHub Pages at: https://zhangzgster.github.io/nilouafshar/
